@@ -1,6 +1,12 @@
 # FloatDeck
 
+<p align="center">
+  <img src="build/icon.png" width="120" height="120" alt="FloatDeck Logo" />
+</p>
+
 A lightweight floating mini-browser built for developers stuck on a single monitor.
+
+👉 **[Download latest .exe (Releases)](https://github.com/kiezkiel/FloatDeck-/releases)**
 
 If you code on a laptop or a single screen, you know the pain: splitting your screen 50/50 squishes your editor and wraps code awkwardly, while constantly Alt-Tabbing between your editor and a tutorial shatters your flow. Browser PiP doesn't cut it either because you can't click links, read docs, or look at code.
 

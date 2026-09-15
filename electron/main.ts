@@ -26,6 +26,7 @@ function createWindow() {
     backgroundColor: '#00000000',
     alwaysOnTop: true,
     hasShadow: true,
+    icon: path.join(__dirname, '../build/icon.png'),
     skipTaskbar: false,
     webPreferences: {
       preload: path.join(__dirname, 'preload.cjs'),
